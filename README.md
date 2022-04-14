@@ -1,2 +1,2 @@
 # hello-world
-This is a starter repository to explore GitHub.
+This is a starter repository to explore GitHub
